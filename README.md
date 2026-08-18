@@ -160,8 +160,8 @@ Retail-sales-sql-excel-powerbi/
 ├── Power bi/
 │   └── retail_sales_dashboard.pbix
 └── Screenshots/
-    ├── POWER BI ANALYSIS.png
-    └── PIVOT TABLE SUMMARY.png
+    ├── power_bi_analysis.png
+    └── pivot_table_summary.png
 
 ```
 
