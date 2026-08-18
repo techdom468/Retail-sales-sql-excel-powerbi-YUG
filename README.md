@@ -102,8 +102,10 @@ RETURN
 ## 5. Dashboard & Key Visuals
 
 ### Power BI Executive Overview
+![Dashboard Overview](./Screenshots/power_bi_analysis.png)
 
 ### Excel Pivot Summary & Reconciliation
+![Pivot Summary](./Screenshots/pivot_table_summary.png)
 
 ---
 
